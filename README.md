@@ -318,12 +318,6 @@ All endpoints are prefixed with `/api`.
 
 ---
 
-## Screenshots
-
-> Add screenshots here — suggested: Hero section (dark mode), Admin dashboard, Assignments tracker, Mobile view.
-
----
-
 ## Author
 
 **Lucky Longre**
