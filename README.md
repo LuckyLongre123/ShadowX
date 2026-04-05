@@ -331,7 +331,7 @@ B.Voc Software Development · Ramanujan College, University of Delhi
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat-square)](https://lucky-longre.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucky-longre/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Sem1-LuckyLongre)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/LuckyLongre123)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:officialluckylongre@gmail.com)
 
 ---
